@@ -1,0 +1,6 @@
+Nov 26 10:01:02 gw sshd[301]: Failed password for invalid user admin from 198.51.100.12 port 40111 ssh2
+Nov 26 10:01:09 gw sshd[302]: Failed password for root from 198.51.100.12 port 40115 ssh2
+Nov 26 10:01:15 gw sshd[303]: Failed password for root from 198.51.100.12 port 40120 ssh2
+Nov 26 10:01:21 gw sshd[304]: Failed password for ubuntu from 198.51.100.12 port 40129 ssh2
+Nov 26 10:01:29 gw sshd[305]: Failed password for deploy from 198.51.100.12 port 40133 ssh2
+Nov 26 10:05:11 gw sshd[309]: Accepted publickey for ops from 10.0.0.5 port 51200 ssh2
